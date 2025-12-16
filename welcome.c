@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main()
+{
+    int i=1;
+    while(i<=5)
+    {
+        printf("Welcome\n");
+        i++;
+    }
+    return 0;
+}#include<stdio.h>
+int main()
+{
+    int i=1;
+    while(i<=5)
+    {
+        printf("Welcome\n");
+        i++;
+    }
+    return 0;
+}
